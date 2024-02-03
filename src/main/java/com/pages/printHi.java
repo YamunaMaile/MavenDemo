@@ -6,6 +6,6 @@ package com.pages;
  */
 public class printHi {
 	public void print() {
-		System.out.println("Hi Rohit and Anu");
+		System.out.println("Hi Rohit and Anu Kamurti");
 	}
 }
